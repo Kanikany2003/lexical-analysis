@@ -1,0 +1,35 @@
+int is a keyword
+main is an identifier
+( is a bracket
+) is a bracket
+{ is a bracket
+int is a keyword
+x is an identifier
+= is an operator
+5 is a constant
+; is a special symbol
+float is a keyword
+y is an identifier
+= is an operator
+10 is a constant
+. is a special symbol
+5 is a constant
+; is a special symbol
+if is a keyword
+( is a bracket
+x is an identifier
+< is a special symbol
+y is an identifier
+) is a bracket
+{ is a bracket
+x is an identifier
+= is an operator
+x is an identifier
++ is an operator
+1 is a constant
+; is a special symbol
+} is a bracket
+return is a keyword
+0 is a constant
+; is a special symbol
+} is a bracket

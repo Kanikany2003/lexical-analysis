@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kanikaim-erb/Documents/sem6/CompilerDesign/practical2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003028, symSize: 0xA84 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003028, symSize: 0xA84 }
+  - { offsetInCU: 0x158, offset: 0x158, size: 0x8, addend: 0x0, symName: _is_operator, symObjAddr: 0xA84, symBinAddr: 0x100003AAC, symSize: 0x110 }
+  - { offsetInCU: 0x19C, offset: 0x19C, size: 0x8, addend: 0x0, symName: _is_keyword, symObjAddr: 0xB94, symBinAddr: 0x100003BBC, symSize: 0xE0 }
+...
