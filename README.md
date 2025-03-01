@@ -48,9 +48,3 @@ This project is written in **C**, known for its efficiency in handling low-level
   <strong>Output</strong>
   <pre style="background:#fff;padding:10px;border-radius:5px;">int is a keyword<br>x is an identifier<br>= is an operator<br>5 is a constant<br>+ is an operator<br>3 is a constant<br>; is a special symbol</pre>
 
-  <strong>ciphertext.txt</strong>
-  <pre style="background:#fff;padding:10px;border-radius:5px;">thisisencryptionhillcipher</pre>
-</div>
-
-
-
